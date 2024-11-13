@@ -13,5 +13,5 @@ Project is a java word based video game , which takes in user input from scanner
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
 
