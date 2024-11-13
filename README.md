@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a somewhat easy to understand java word based video game , which takes in user input from scanner and uses it to decode the given map coordinates and user text , also implements management of varying classes.
+Project is a java word based video game , which takes in user input from scanner and uses it to decode the given map coordinates and user text, it also implements management of varying classes.
 <br />
 
 
